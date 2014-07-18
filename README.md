@@ -16,3 +16,5 @@ pcb-gcode.ulp for eagle cad, added a little bit of code to send GCODE commands d
 The code is ugly and pre-alpha quality level, it need probably a complete refactory, but anyway, it works, at leas for me.
 
 Use at your own risk, by downloading it and using it you accept to no comply me for any damage to your 3dprinter, nor in case of your kitten will die, nor in case of you balls will explode in a nuclear blast.
+
+Tested only on debian (sid) using a 3drag 3d printer modified for usage as CNC router with Marlin firmware.
