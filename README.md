@@ -1,3 +1,7 @@
+# REPOSITORY MOVED TO https://git.nexlab.net/machinery/pcbdrill
+
+
+
 pcbdrill
 ========
 
